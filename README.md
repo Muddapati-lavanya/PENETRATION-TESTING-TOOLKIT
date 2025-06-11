@@ -30,5 +30,5 @@ This port scanner fulfills the initial phase of the penetration testing toolkit 
 
 *OUTPUT*
 
-![Image](https://github.com/user-attachments/assets/faf26217-2e39-4d9b-91c1-a463499903b4)
+![Image](https://github.com/user-attachments/assets/4169999b-c28b-4d70-b4ee-cf12f4f3d7c3)
 
