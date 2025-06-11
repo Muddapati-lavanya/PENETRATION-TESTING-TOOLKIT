@@ -28,3 +28,7 @@ Directory brute-forcing,Network mapping Vulnerability scanning
 *CONCLUSION*
 This port scanner fulfills the initial phase of the penetration testing toolkit task. It introduces basic ethical hacking concepts and builds a strong foundation for more complex modules. The scanner was written with clarity, modularity, and user-friendliness in mind, making it suitable for both beginners and advanced users interested in cybersecurity. The knowledge gained from this task has enhanced my understanding of low-level networking and Python’s capability to build real-world cybersecurity tools.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/faf26217-2e39-4d9b-91c1-a463499903b4)
+
